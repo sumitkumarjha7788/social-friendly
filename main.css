@@ -10,7 +10,7 @@ header {
 #main,
 #menu,
 #sidebar {
-  height: 600px;
+  height: 700px;
   background-color: #e9ebee;
 }
 
@@ -69,3 +69,15 @@ p {
     margin: 0;
 }
 
+.inline{
+	display:inline! important;
+}
+
+.adbar {
+	height:80px;
+	width:100px;
+}
+.onit{
+	position:relative;
+	right:10px;
+}
