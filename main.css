@@ -57,8 +57,8 @@ header {
 }
 
 .navimg {
-	height:28px;
-	width:28px;
+	height:32px;
+	width:32px;
 }
 
 p {
@@ -80,4 +80,8 @@ p {
 .onit{
 	position:relative;
 	right:10px;
+}
+.comment-pic {
+	height:32px;
+	width:32px;
 }
