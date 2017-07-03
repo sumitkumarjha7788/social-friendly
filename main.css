@@ -79,9 +79,20 @@ p {
 }
 .onit{
 	position:relative;
-	right:10px;
+	right:20px;
 }
 .comment-pic {
 	height:32px;
 	width:32px;
+}
+.blacky {
+	color: grey! important;
+	position:relative;
+	left:35px;
+	bottom:10px;
+
+}
+
+.grey{
+	color:grey;
 }
